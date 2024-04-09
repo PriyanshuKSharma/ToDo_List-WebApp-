@@ -1,0 +1,8 @@
+#Requirements in flask
+#pip install virtualenv
+#virtualenv env
+#Set-ExecutionPolicy Unrestricted(in powershell administrator)
+#.\env\Scripts\Activate.ps1
+
+For database
+pip install flask-sqlalchemy
